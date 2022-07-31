@@ -27,7 +27,7 @@ public class App {
             Boolean isWin = true;
             int totalScore = 0;
 
-            System.out.println("Coepoe World Puzzle");
+            System.out.println("Coepoe Word Puzzle");
             System.out.println("===========================================");
             System.out.println();
 
